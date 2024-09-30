@@ -1,0 +1,2 @@
+# notatki
+ notatki ze spotkań
